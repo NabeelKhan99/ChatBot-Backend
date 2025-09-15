@@ -1,3 +1,6 @@
+os.environ["TRANSFORMERS_CACHE"] = "/tmp/hf"
+os.environ["HF_HOME"] = "/tmp/hf"
+
 import os
 import random
 from fastapi import FastAPI
