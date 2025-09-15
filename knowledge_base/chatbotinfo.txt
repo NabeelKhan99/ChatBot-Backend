@@ -1,0 +1,7 @@
+What is Smart FAQ:
+
+Smart FAQ  is an AI-powered chatbot with a React, Vite, and 
+TypeScript frontend and a FastAPI backend powered by Hugging Face’s google/flan-t5-small. 
+It provides context-aware answers through a floating widget and clean conversation UI. Currently,
+ it responds with helpful answers and fallback jokes when uncertain. 
+ An upcoming feature will extract knowledge from site pages, ensuring responses are always grounded in real content.

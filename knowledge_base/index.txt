@@ -1,4 +1,3 @@
-
 My Work:
 
 List of my Featured Projects:
@@ -6,6 +5,14 @@ List of my Featured Projects:
 1. Emushtashfaa Modular Healthcare Management System.
 
 2. A multi-platform IT solutions.
+
+3. Smart FAQ. Hey! Thats me!!!
+
+4. Portfolio Site.
+
+5. Weather Dashbord (with modern UI)
+
+
 
 
 
