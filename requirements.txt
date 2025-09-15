@@ -1,13 +1,10 @@
-# Web framework
 fastapi==0.116.1
 uvicorn[standard]==0.35.0
 pydantic==2.11.1
-
-# Hugging Face + NLP
 transformers==4.41.2
 sentence-transformers==2.7.0
+torch==2.2.2
+regex==2024.5.15
 
-# Force CPU-only Torch (no CUDA, much smaller)
-torch==2.2.2+cpu --extra-index-url https://download.pytorch.org/whl/cpu
 
 
