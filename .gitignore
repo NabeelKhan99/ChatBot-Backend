@@ -1,9 +1,34 @@
-# Python virtual environment
+# Python virtual environments
 .venv/
 venv/
 
-# Python cache files
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.pkl
 
-gen_embed.py/
+# Hugging Face / Transformers cache
+.cache/
+huggingface/
+hf/
+transformers_cache/
+~/.cache/huggingface/
+
+# Dataset / model files
+*.bin
+*.pt
+*.ckpt
+*.h5
+*.onnx
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Local test files
+gen_embed.py
