@@ -1,6 +1,3 @@
-os.environ["TRANSFORMERS_CACHE"] = "/tmp/hf"
-os.environ["HF_HOME"] = "/tmp/hf"
-
 import os
 import random
 from fastapi import FastAPI
@@ -9,6 +6,9 @@ from fastapi.middleware.cors import CORSMiddleware
 from sentence_transformers import SentenceTransformer, util
 from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, pipeline
 import re
+
+os.environ["TRANSFORMERS_CACHE"] = "/tmp/hf"
+os.environ["HF_HOME"] = "/tmp/hf"
 
 app = FastAPI()
 
