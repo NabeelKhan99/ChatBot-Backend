@@ -1,0 +1,15 @@
+What I Do:
+My Expertise:
+
+
+1. Front-end Development:
+    - Creating responsive, accessible, and performant user interfaces with modern frameworks.
+
+2. Back-end Development:
+    - Building robust and scalable server-side applications and APIs.
+
+3. UI/UX Design:
+ - Designing intuitive user experiences with a focus on usability and accessibility.
+
+4. Cloud Services:
+- Deploying and managing applications on cloud platforms with CI/CD pipelines.

@@ -1,0 +1,6 @@
+Description: 
+
+Emushtashfaa is a modular healthcare management system built with Java Spring Boot, featuring separate Patient,
+ Billing, and Kafka-based notification services. Docker and AWS CLI were used for efficient containerization and deployment. 
+ Real-time patient event processing was enabled via Apache Kafka. The system achieved over 85% test coverage, 
+ improving reliability and reducing production issues by 25%.
