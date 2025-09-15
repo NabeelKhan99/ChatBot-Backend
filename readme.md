@@ -1,6 +1,6 @@
 # Smart FAQ 🤖  
 
-An AI-powered chatbot that acts as a **Smart FAQ assistant**, answering user queries directly within your site. Built with a **React + Vite + TypeScript frontend** and a **FastAPI backend powered by Hugging Face’s google/flan-t5-small**.  
+An AI-powered chatbot that acts as a **Smart FAQ assistant**, answering user queries directly within your site. Built with a **React + Vite + TypeScript frontend** and a **FastAPI backend powered by Hugging Face’s google/flan-t5-small**. Serving it on my portfolio site using **Railway cloud services**.
 
 ---
 
