@@ -66,7 +66,7 @@ async def chat(req: ChatRequest):
 
         combined_contexts = []
         for hit in top_hits:
-            if hit["score"] > 0.1:  # lower threshold to catch more context
+            if hit["score"] > 0.4:  # lower threshold to catch more context
                 context_text = knowledge_chunks[hit["corpus_id"]]
                 context_name = knowledge_files[hit["corpus_id"]].replace(".txt", "")
                 combined_contexts.append(f"Page: {context_name}\n{context_text}")
